@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Hamid Ouaggag	houaggag@ca.ibm.com	@houaggag
 
 # THANKS
 
