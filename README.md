@@ -16,6 +16,8 @@ Deployment can be done on any web server or even local file system.
 
 ## How to Contribute
 
+Please fork this repository and then issue Pull Requests for review.
+
 ### Copyright
 
 2025 Git course
