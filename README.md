@@ -9,7 +9,7 @@ This is an example to show different parts of the Git repository and various com
 ## Purpose
 
 Sample website with plenty of files for demos to provide simple examples for Git training demos.
-Adding a line for rebasing exercise.
+Adding a line for rebasing exercise, then more changes from myfeature branch too.
 
 ## Deployment
 
